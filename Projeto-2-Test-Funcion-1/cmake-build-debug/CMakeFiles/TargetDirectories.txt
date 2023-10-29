@@ -1,0 +1,3 @@
+C:/Users/citta/Documents/GitHub/Projeto-2/cmake-build-debug/CMakeFiles/Projeto_2.dir
+C:/Users/citta/Documents/GitHub/Projeto-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/citta/Documents/GitHub/Projeto-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
